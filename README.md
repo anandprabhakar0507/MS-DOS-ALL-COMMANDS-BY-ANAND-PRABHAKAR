@@ -18,6 +18,7 @@
           move X:/dir/file.txt Y:/dir- copy a file from source x/dir to y/dir
           del filename.txt - to delete a file 
           dir a????.txt - finds all file with a and have 4 char of ext .txt
+          color nx -to change the color of cmd window (x and n are color codes)
           version - to know MS-DOS version
           hostname - to find MS-DOS hostname
           cls - to clear the screen
@@ -142,6 +143,7 @@
 
 #### 5)HELP MENUS
           help - to access help for all command line
+          color help - to access color help
           choice /? - to know about choices in ms-dos
           cipher /?- to learn about the ms-dos EFS
           netsh /?- to access pc network setting cli
