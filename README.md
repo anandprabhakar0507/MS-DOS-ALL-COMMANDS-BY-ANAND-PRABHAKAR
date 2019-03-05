@@ -140,7 +140,7 @@
           cmstp - connection manager profiler installer
 
 
-#### HELP MENUS
+#### 5)HELP MENUS
           help - to access help for all command line
           choice /? - to know about choices in ms-dos
           cipher /?- to learn about the ms-dos EFS
