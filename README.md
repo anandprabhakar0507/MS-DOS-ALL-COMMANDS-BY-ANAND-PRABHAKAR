@@ -9,6 +9,11 @@
           cd.. - to move up level of folder
           dir - to show all files of current directory
           mkdir foldername - to create folder named foldername
+          NUL > filename.extension - to craete a file
+          cd. > filename.extension - to create a file
+          cd > filename.extension - to create a file
+          echo your file > filename.extension - to create a file
+          out >filename.extension
           dir *.txt - to show all files with ext. .txt
           dir /s foldername - to show all subdirectories
           J: - to move to a drive J
