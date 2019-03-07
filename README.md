@@ -2,7 +2,7 @@
 ###                          - written by : ANAND PRABHAKAR
 
 # SEE HERE [https://git.io/fhxhZ](https://git.io/fhxhZ)
-## see the blog for this repository [https://learnmsdoscommands.blogspot.com/2019/03/lec-0-introduction.html](https://learnmsdoscommands.blogspot.com/2019/03/lec-0-introduction.html)
+## see the blog for this repository [https://learnmsdoscommands.blogspot.com/](https://learnmsdoscommands.blogspot.com/2019/03/lec-0-introduction.html)
 
 on blog i have put all videos in ordered way
 #### 1)DAILY USED COMMANDS
