@@ -7,21 +7,21 @@
           cd - to show current directory
           cd foldername - to move to the foldername
           cd.. - to move up level of folder
-          cd dir - to show all files of current directory
+          dir - to show all files of current directory
           mkdir foldername - to create folder named foldername
           dir *.txt - to show all files with ext. .txt
           dir /s foldername - to show all subdirectories
           J: - to move to a drive J
-          cd /p /w - show current dir. wide page
-          cd /p - to show current dir. page
-          cd /w - to show current dir. wider
+          dir /p /w - show current dir. wide page
+          dir /p - to show current dir. page
+          dir /w - to show current dir. wider
           ren a.txt a.doc - rename a.txt to a.doc
           copy X:/dir/file.txt Y:/dir- copy from source x/dir to y/dir
           move X:/dir/file.txt Y:/dir- copy a file from source x/dir to y/dir
           del filename.txt - to delete a file 
           dir a????.txt - finds all file with a and have 4 char of ext .txt
           color nx -to change the color of cmd window (x and n are color codes)
-          version - to know MS-DOS version
+          ver - to know MS-DOS version
           hostname - to find MS-DOS hostname
           cls - to clear the screen
           shutdown - to shutdown window
