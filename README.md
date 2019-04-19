@@ -1,7 +1,7 @@
 ##    This list consist of almost all commands of MS-DOS command prompt 
 ###                          - written by : ANAND PRABHAKAR
 
-### SEE HERE [https://git.io/fhxhZ](https://git.io/fhxhZ)
+### SEE HERE The website.. [https://git.io/fhxhZ](https://git.io/fhxhZ)
 ## see the blog for this repository [https://learnmsdoscommands.blogspot.com/](https://learnmsdoscommands.blogspot.com/2019/03/lec-0-introduction.html)
 
 on blog i have put all videos in ordered way
