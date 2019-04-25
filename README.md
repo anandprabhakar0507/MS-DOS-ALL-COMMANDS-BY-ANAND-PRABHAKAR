@@ -1,7 +1,8 @@
 ##    This list consist of almost all commands of MS-DOS command prompt 
 #### you can learn using Command prompt using this page website.
 ###                          - written by : ANAND PRABHAKAR
-
+## Note: some commands like echo and writing files are missing in here but are available in last video lessons..
+## find all lessons here [https://learnmsdoscommands.blogspot.com/](https://learnmsdoscommands.blogspot.com/2019/03/lec-0-introduction.html)
 ### SEE HERE The website.. [https://git.io/fhxhZ](https://git.io/fhxhZ)
 ## see the blog for this repository [https://learnmsdoscommands.blogspot.com/](https://learnmsdoscommands.blogspot.com/2019/03/lec-0-introduction.html)
 
